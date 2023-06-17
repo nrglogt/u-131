@@ -3,11 +3,11 @@ Unity 131.grup oyun projesi
 ## Takım İsmi
 # Ürün ile İlgili bilgiler
 ## Takım Elemanları
--Halim Furkan Sargın /Product Owner/Developer <br/>
--Elif Afra Beşparmak /Scrum Master/Developer <br/>
--Aleyna Balçın /Developer <br/>
--Nurgül Söğüt /Developer <br/>
--Mehmet Can Uslu / İnaktif üye
+- Halim Furkan Sargın /Product Owner/Developer <br/>
+- Elif Afra Beşparmak /Scrum Master/Developer <br/>
+- Aleyna Balçın /Developer <br/>
+- Nurgül Söğüt /Developer <br/>
+- Mehmet Can Uslu / İnaktif üye
 ## Ürün İsmi
 ## Ürün Açıklaması
 ## Ürün Özellikleri
