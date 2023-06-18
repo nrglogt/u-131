@@ -1,17 +1,20 @@
 # Oyun ve Uygulama Akademisi Bootcamp Projesi
 Unity 131.grup oyun projesi 
 ## Takım İsmi
+Climb Force
 # Ürün ile İlgili bilgiler
 ## Takım Elemanları
 - Halim Furkan Sargın /Product Owner/Developer <br/>
 - Elif Afra Beşparmak /Scrum Master/Developer <br/>
 - Aleyna Balçın /Developer <br/>
-- Nurgül Söğüt /Developer <br/>
+- Nurgül Öğüt /Developer <br/>
 - Mehmet Can Uslu / İnaktif üye
 ## Ürün İsmi
+CoClimber
 ## Ürün Açıklaması
 ## Ürün Özellikleri
 ## Hedef Kitle
+9 yaş ve üzeri için uygundur.
 ## Product Backlog URL
 # Sprint 1
  - **Sprint Notları:** Toplantı notları ve puanlar eklendi. (Link eklenecek)
