@@ -12,10 +12,15 @@ Climb Force
 ## Ürün İsmi
 CoClimber
 ## Ürün Açıklaması
+CoClimber heyecan dolu bir kargo teslimatı deneyimi sunan mobil bir oyunudur. Oyunda, oyuncular kargocu karakterini kontrol ederek dağa tırmanır ve kargoları hedef noktalara ulaştırmak için engelleri aşarlar. Zamanla yarışan oyuncular, dikkatli bir şekilde engelleri aşarak altınları toplayabilir ve yüksek puanlar elde edebilir. Basit kontrollerle oynanabilen bu 2D oyun, grafikleri ve canlı renkleriyle göz alıcı bir deneyim sunar.
 ## Ürün Özellikleri
+- Mobil platformda oynanabilen 2D bir oyun.
+- Basit kontrollerle oynanabilirlik, oyuncuların kolayca oyunu yönetmesini sağlar.
+- Farklı seviyelerde artan zorluk seviyeleriyle uzun süreli oynanabilirlik sunar.
 ## Hedef Kitle
-9 yaş ve üzeri için uygundur.
+9 yaş ve üzeri için uygundur. Özellikle dağa tırmanma ve engelleri aşma konseptinden keyif alan oyuncular için uygundur. Ayrıca, rekabetçi bir unsur içermesi nedeniyle skorları yükseltme ve arkadaşlarla rekabet etme isteği olan oyunculara da hitap eder.
 ## Product Backlog URL
+[Product Backlog URL/Trello ](https://trello.com/b/y2y7WyEk/backloglar)
 # Sprint 1
  - **Sprint Notları:** Toplantı notları ve puanlar eklendi. (Link eklenecek)
  - **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** 60
