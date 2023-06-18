@@ -32,5 +32,7 @@ CoClimber heyecan dolu bir kargo teslimatı deneyimi sunan mobil bir oyunudur. O
  - **Sprint Board Update:** Sprint Board ekran görüntüsü <br/>
  ![sprint 1](https://github.com/nrglogt/u-131/assets/121130658/716daec2-1c69-4500-a778-688f749f7845)
  - **Ürün Durumu:** Karakter Tasarımları <br/>
+ ![karakter](https://github.com/nrglogt/u-131/assets/121130658/e79cb973-4db3-46fc-a885-b5d6ee61c682) <br/>
+ <img src= "https://github.com/nrglogt/u-131/assets/121130658/e79cb973-4db3-46fc-a885-b5d6ee61c682" width="350" height="350"> <br/>
  - **Sprint Review:** Sprint boyunca, ekip olarak tanışma süreci, rollerin dağılımı, fikir bulma ve geliştirme süreçleri üzerinde çalışıldı. Ayrıca, karakter tasarımına yönelik ön çalışmalar yapıldı. Ekip üyeleri bir araya gelerek birbirini tanıdı ve beceri setlerini paylaştı. Roller netleştirildikten sonra fikir üretme ve geliştirme sürecine odaklanıldı. Oyunun temel mekanikleri, hikayesi ve karakter tasarımı için çalışmalar yapıldı. İkinci sprintte game art ve kodlama kısmının üstünde durulmasına ve pratik adımlar atılmasına karar verildi. Katılımcılar: Elif Afra Beşparmak, Aleyna Balçın, Halim Furkan Sargın ve Nurgül Öğüt.
  - **Sprint Retrospective:** İletişimde yaşanan zorluklar ve zamanlama konusundaki sıkıntılarla ilgili olarak, daha sık toplantılar düzenlemek ve iletişim araçlarını daha etkin bir şekilde kullanmak gibi iyileştirmelerin yapılmasına karar verildi. 
