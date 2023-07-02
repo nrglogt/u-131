@@ -42,7 +42,7 @@ CoClimber heyecan dolu bir kargo teslimatı deneyimi sunan mobil bir oyunudur. O
  - **Sprint Notları:** Toplantı notları ve puanlar eklendi. <br/>
  [Sprint Notları/ Miro](https://miro.com/app/board/uXjVM_UxzBM=/#tpicker-content)
  - **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** 120
- - **Puan Tamamlama Mantığı:** Proje boyunca tamamlanması gereken toplam 300 puanlık bir backlog bulunmaktadır.  İlk sprintte 60 puanlık bir kısım tamamlanmıştır. Ses efektlerinin eklenmesi görevi 3.sprinte kalmıştır.
+ - **Puan Tamamlama Mantığı:** Proje boyunca tamamlanması gereken toplam 300 puanlık bir backlog bulunmaktadır.  İlk sprintte 60 puanlık bir kısım tamamlanmıştır. 
  - **Backlog Düzeni:** Backloglar levellerin ve karakterlerin tasarlanması amacıyla düzenlendi.
  - **Daily Scrum:** Bu sprintte, daily scrumlar daha iyi yapılmıştır ancak araya bayram girmesi sebebiyle aksaklıklar yaşanmıştır. <br/>
  [Daily Scrum/ Word](https://docs.google.com/document/d/1YnnR5I8KUP3gojsxvd28m6k2KtC6wq2b/edit?usp=sharing&ouid=107836101793561456802&rtpof=true&sd=true)
@@ -50,5 +50,5 @@ CoClimber heyecan dolu bir kargo teslimatı deneyimi sunan mobil bir oyunudur. O
  
  - **Ürün Durumu:** Karakter Tasarımları <br/>
 
- - **Sprint Review:** Önceki sprint boyunca logo tasarımı, mekan tasarımı ve karakter tasarımı görevleri başarıyla tamamlandı. Animasyonların tasarımına başlandı. Hedeflediğimiz sonuca yaklaşmış bir sprint süreci geçirildi. Bayram tatili nedeniyle iletişimde bazı zorluklar yaşandı. Olabildiğince whatsapp üzerinde iletişim kuruldu. Bu durum bazı görevlerin zamanında tamamlanmasını etkiledi. Özellikle ses efektleri tasarımı görevi bayram tatili nedeniyle 3. sprinte kaldı.  Katılımcılar: Elif Afra Beşparmak, Aleyna Balçın, Halim Furkan Sargın ve Nurgül Öğüt.
+ - **Sprint Review:** Önceki sprint boyunca logo tasarımı, mekan tasarımı ve karakter tasarımı görevleri başarıyla tamamlandı. Animasyonların tasarımına başlandı. Hedeflediğimiz sonuca yaklaşmış bir sprint süreci geçirildi. Bayram tatili nedeniyle iletişimde bazı zorluklar yaşandı. Olabildiğince whatsapp üzerinde iletişim kuruldu. Bu durum bazı görevlerin zamanında tamamlanmasını etkiledi.  Katılımcılar: Elif Afra Beşparmak, Aleyna Balçın, Halim Furkan Sargın ve Nurgül Öğüt.
  - **Sprint Retrospective:** Bayram dolayısıyla yaşanan aksaklıklardan dolayı backloglar düzenlenerek kodlama kısmına ağırlık verilmesi gerektiği kararlaştırılmıştır.
