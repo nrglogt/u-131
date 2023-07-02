@@ -10,7 +10,8 @@ Climb Force
 - Nurgül Öğüt /Developer <br/>
 - Mehmet Can Uslu / İnaktif üye
 ## Ürün İsmi
-CoClimber
+CoClimber <br/>
+ <img src= " https://github.com/nrglogt/u-131/assets/121130658/8236a18e-4065-4455-8abc-8fda89556665" width="500" height="750"> <br/>
 ## Ürün Açıklaması
 CoClimber heyecan dolu bir kargo teslimatı deneyimi sunan mobil bir oyunudur. Oyunda, oyuncular kargocu karakterini kontrol ederek dağa tırmanır ve kargoları hedef noktalara ulaştırmak için engelleri aşarlar. Zamanla yarışan oyuncular, dikkatli bir şekilde engelleri aşarak altınları toplayabilir ve yüksek puanlar elde edebilir. Basit kontrollerle oynanabilen bu 2D oyun, grafikleri ve canlı renkleriyle göz alıcı bir deneyim sunar.
 ## Ürün Özellikleri
@@ -32,8 +33,8 @@ CoClimber heyecan dolu bir kargo teslimatı deneyimi sunan mobil bir oyunudur. O
  - **Sprint Board Update:** Sprint Board ekran görüntüsü <br/>
  ![sprint 1](https://github.com/nrglogt/u-131/assets/121130658/716daec2-1c69-4500-a778-688f749f7845)
  - **Ürün Durumu:** Karakter Tasarımları <br/>
- <img src= "https://github.com/nrglogt/u-131/assets/121130658/82c2558f-ddd2-49fb-9251-c31b75654392" width="350" height="350">  <br/>
- <img src= "https://github.com/nrglogt/u-131/assets/121130658/c76e61d7-6a4e-4ecc-8ea4-c6d6b44114e8" width="350" height="350"> <br/>
+ <img src= "https://github.com/nrglogt/u-131/assets/121130658/82c2558f-ddd2-49fb-9251-c31b75654392" width="350" height="500">  <br/>
+ <img src= "https://github.com/nrglogt/u-131/assets/121130658/c76e61d7-6a4e-4ecc-8ea4-c6d6b44114e8" width="350" height="500"> <br/>
  - **Sprint Review:** Sprint boyunca, ekip olarak tanışma süreci, rollerin dağılımı, fikir bulma ve geliştirme süreçleri üzerinde çalışıldı. Ayrıca, karakter tasarımına yönelik ön çalışmalar yapıldı. Ekip üyeleri bir araya gelerek birbirini tanıdı ve beceri setlerini paylaştı. Roller netleştirildikten sonra fikir üretme ve geliştirme sürecine odaklanıldı. Oyunun temel mekanikleri, hikayesi ve karakter tasarımı için çalışmalar yapıldı. İkinci sprintte game art ve kodlama kısmının üstünde durulmasına ve pratik adımlar atılmasına karar verildi. Katılımcılar: Elif Afra Beşparmak, Aleyna Balçın, Halim Furkan Sargın ve Nurgül Öğüt.
  - **Sprint Retrospective:** İletişimde yaşanan zorluklar ve zamanlama konusundaki sıkıntılarla ilgili olarak, daha sık toplantılar düzenlemek ve iletişim araçlarını daha etkin bir şekilde kullanmak gibi iyileştirmelerin yapılmasına karar verildi.
  - ## Product Backlog URL
@@ -56,5 +57,5 @@ CoClimber heyecan dolu bir kargo teslimatı deneyimi sunan mobil bir oyunudur. O
  <img src= "https://github.com/holeyno/u-131/blob/main/Pink%20Background.png?raw=true" width="500" height="750"> <br/>
  <img src= "https://github.com/holeyno/u-131/blob/main/Pink-Orange%20Background.png?raw=true" width="500" height="750"> <br/>
  <img src= "https://github.com/holeyno/u-131/blob/main/Sprite.png?raw=true" width="750" height="500"> <br/>
- - **Sprint Review:** Önceki sprint boyunca logo tasarımı, mekan tasarımı ve karakter tasarımı görevleri başarıyla tamamlandı. Animasyonların tasarımına başlandı. Hedeflediğimiz sonuca yaklaşmış bir sprint süreci geçirildi. Bayram tatili nedeniyle iletişimde bazı zorluklar yaşandı. Olabildiğince whatsapp üzerinde iletişim kuruldu. Bu durum bazı görevlerin zamanında tamamlanmasını etkiledi.  Katılımcılar: Elif Afra Beşparmak, Aleyna Balçın, Halim Furkan Sargın ve Nurgül Öğüt.
+ - **Sprint Review:** Önceki sprint boyunca logo tasarımı, background tasarımı ve karakter tasarımı görevleri başarıyla tamamlandı. Animasyonların tasarımına başlandı. Hedeflediğimiz sonuca yaklaşmış bir sprint süreci geçirildi. Bayram tatili nedeniyle iletişimde bazı zorluklar yaşandı. Olabildiğince whatsapp üzerinde iletişim kuruldu. Bu durum bazı görevlerin zamanında tamamlanmasını etkiledi.  Katılımcılar: Elif Afra Beşparmak, Aleyna Balçın, Halim Furkan Sargın ve Nurgül Öğüt.
  - **Sprint Retrospective:** Bayram dolayısıyla yaşanan aksaklıklardan dolayı backloglar düzenlenerek kodlama kısmına ağırlık verilmesi gerektiği kararlaştırılmıştır.
