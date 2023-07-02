@@ -48,7 +48,13 @@ CoClimber heyecan dolu bir kargo teslimatı deneyimi sunan mobil bir oyunudur. O
  [Daily Scrum/ Word](https://docs.google.com/document/d/1YnnR5I8KUP3gojsxvd28m6k2KtC6wq2b/edit?usp=sharing&ouid=107836101793561456802&rtpof=true&sd=true)
  - **Sprint Board Update:** Sprint Board ekran görüntüsü <br/>
  ![miro](https://github.com/nrglogt/u-131/assets/121130658/ef97295b-a069-41db-a3a6-8d7a93c93f87)
- - **Ürün Durumu:** Oyun giriş ekranı, mekan tasarımları, arka profil karakteri <br/>
-
+ - **Ürün Durumu:** Logo Tasarımları,oyun giriş ekranları, background tasarımları, arka profil karakteri <br/>
+ <img src= "https://github.com/holeyno/u-131/blob/main/CoClimberLogo.png" width="500" height="750"> <br/>
+ <img src= "https://github.com/holeyno/u-131/blob/main/Giris%CC%A7%20Ekran%C4%B1%202.png?raw=true" width="500" height="750"> <br/>
+ <img src= "https://github.com/holeyno/u-131/blob/main/Giris%CC%A7%20Ekran%C4%B1%203.png?raw=true" width="500" height="750"> <br/>
+ <img src= "https://github.com/holeyno/u-131/blob/main/Background-Blue.png?raw=true" width="500" height="750"> <br/>
+ <img src= "https://github.com/holeyno/u-131/blob/main/Pink%20Background.png?raw=true" width="500" height="750"> <br/>
+ <img src= "https://github.com/holeyno/u-131/blob/main/Pink-Orange%20Background.png?raw=true" width="500" height="750"> <br/>
+ <img src= "https://github.com/holeyno/u-131/blob/main/Sprite.png?raw=true" width="750" height="500"> <br/>
  - **Sprint Review:** Önceki sprint boyunca logo tasarımı, mekan tasarımı ve karakter tasarımı görevleri başarıyla tamamlandı. Animasyonların tasarımına başlandı. Hedeflediğimiz sonuca yaklaşmış bir sprint süreci geçirildi. Bayram tatili nedeniyle iletişimde bazı zorluklar yaşandı. Olabildiğince whatsapp üzerinde iletişim kuruldu. Bu durum bazı görevlerin zamanında tamamlanmasını etkiledi.  Katılımcılar: Elif Afra Beşparmak, Aleyna Balçın, Halim Furkan Sargın ve Nurgül Öğüt.
  - **Sprint Retrospective:** Bayram dolayısıyla yaşanan aksaklıklardan dolayı backloglar düzenlenerek kodlama kısmına ağırlık verilmesi gerektiği kararlaştırılmıştır.
