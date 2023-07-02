@@ -11,7 +11,7 @@ Climb Force
 - Mehmet Can Uslu / İnaktif üye
 ## Ürün İsmi
 CoClimber <br/>
- <img src= " https://github.com/nrglogt/u-131/assets/121130658/8236a18e-4065-4455-8abc-8fda89556665" width="500" height="750"> <br/>
+ <img src= "https://github.com/nrglogt/u-131/assets/121130658/8d414e22-f178-42ae-ab19-50cf8f26431a" width="300" height="300"> <br/>
 ## Ürün Açıklaması
 CoClimber heyecan dolu bir kargo teslimatı deneyimi sunan mobil bir oyunudur. Oyunda, oyuncular kargocu karakterini kontrol ederek dağa tırmanır ve kargoları hedef noktalara ulaştırmak için engelleri aşarlar. Zamanla yarışan oyuncular, dikkatli bir şekilde engelleri aşarak altınları toplayabilir ve yüksek puanlar elde edebilir. Basit kontrollerle oynanabilen bu 2D oyun, grafikleri ve canlı renkleriyle göz alıcı bir deneyim sunar.
 ## Ürün Özellikleri
@@ -20,6 +20,8 @@ CoClimber heyecan dolu bir kargo teslimatı deneyimi sunan mobil bir oyunudur. O
 - Farklı seviyelerde artan zorluk seviyeleriyle uzun süreli oynanabilirlik sunar.
 ## Hedef Kitle
 9 yaş ve üzeri için uygundur. Özellikle dağa tırmanma ve engelleri aşma konseptinden keyif alan oyuncular için uygundur. Ayrıca, rekabetçi bir unsur içermesi nedeniyle skorları yükseltme ve arkadaşlarla rekabet etme isteği olan oyunculara da hitap eder.
+## Kullanılan Assetler
+[Oyun Sesleri](https://leohpaz.itch.io/minifantasy-forgotten-plains-sfx-pack)
 ## Product Backlog URL
 [Product Backlog URL/Trello ](https://trello.com/b/y2y7WyEk/backloglar)
 # Sprint 1
