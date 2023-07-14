@@ -61,3 +61,15 @@ CoClimber heyecan dolu bir kargo teslimatı deneyimi sunan mobil bir oyunudur. O
  <img src= "https://github.com/holeyno/u-131/blob/main/Sprite.png?raw=true" width="750" height="500"> <br/>
  - **Sprint Review:** Önceki sprint boyunca logo tasarımı, background tasarımı ve karakter tasarımı görevleri başarıyla tamamlandı. Animasyonların tasarımına başlandı. Hedeflediğimiz sonuca yaklaşmış bir sprint süreci geçirildi. Bayram tatili nedeniyle iletişimde bazı zorluklar yaşandı. Olabildiğince whatsapp üzerinde iletişim kuruldu. Bu durum bazı görevlerin zamanında tamamlanmasını etkiledi.  Katılımcılar: Elif Afra Beşparmak, Aleyna Balçın, Halim Furkan Sargın ve Nurgül Öğüt.
  - **Sprint Retrospective:** Bayram dolayısıyla yaşanan aksaklıklardan dolayı backloglar düzenlenerek kodlama kısmına ağırlık verilmesi gerektiği kararlaştırılmıştır.
+## Product Backlog URL
+[Product Backlog URL/Trello ](https://trello.com/b/y2y7WyEk/backloglar)
+# Sprint 3
+ - **Sprint Notları:** Toplantı notları ve puanlar eklendi. <br/>
+ [Sprint Notları/ Miro](https://miro.com/app/board/uXjVM_UxzBM=/#tpicker-content)
+ - **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** 
+ - **Puan Tamamlama Mantığı:** 
+ - **Backlog Düzeni:**
+ - **Daily Scrum:** 
+ - **Sprint Board Update:** 
+ - **Sprint Review:** 
+ - **Sprint Retrospective:** 
