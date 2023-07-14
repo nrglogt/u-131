@@ -66,7 +66,7 @@ CoClimber heyecan dolu bir kargo teslimatı deneyimi sunan mobil bir oyunudur. O
 # Sprint 3
  - **Sprint Notları:** Toplantı notları ve puanlar eklendi. <br/>
  [Sprint Notları/ Miro](https://miro.com/app/board/uXjVM_UxzBM=/#tpicker-content)
- - **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** 
+ - **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** 120
  - **Puan Tamamlama Mantığı:** 
  - **Backlog Düzeni:**
  - **Daily Scrum:** 
