@@ -67,9 +67,12 @@ CoClimber heyecan dolu bir kargo teslimatı deneyimi sunan mobil bir oyunudur. O
  - **Sprint Notları:** Toplantı notları ve puanlar eklendi. <br/>
  [Sprint Notları/ Miro](https://miro.com/app/board/uXjVM_UxzBM=/#tpicker-content)
  - **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** 120
- - **Puan Tamamlama Mantığı:** 
- - **Backlog Düzeni:**
- - **Daily Scrum:** 
- - **Sprint Board Update:** 
- - **Sprint Review:** 
- - **Sprint Retrospective:** 
+ - **Puan Tamamlama Mantığı:** Toplam tamamlanması gereken 300 puanlık backlog bulunmaktadır. Bir önceki sprintlerde hedeflenen puanlar tamamlandı. Geriye kalan 120 puan bu sprinte verildi.
+ - **Backlog Düzeni:** Oyunun hedeflenen bittiye ulaşmasını sağlayacak şekilde backloglar düzenlendi.
+ - **Daily Scrum:** Discord ve Whatsapp üzerinden iletişime geçildi. 3 tane toplantı yapıldı. <br/>
+ [Daily Scrum/ Word](https://docs.google.com/document/d/1YnnR5I8KUP3gojsxvd28m6k2KtC6wq2b/edit?usp=sharing&ouid=107836101793561456802&rtpof=true&sd=true)
+ - **Sprint Board Update:** Sprint Board ekran görüntüsü <br/>
+ ![miro](https://github.com/nrglogt/u-131/assets/121130658/ef97295b-a069-41db-a3a6-8d7a93c93f87)
+ - **Ürün Durumu:** Sahne Tasarımları, Karakter Hareketi <br/>
+ - **Sprint Review:** Sprint boyunca sahne tasarımı ve kodların yazılması görevleri başarıyla tamamlandı. Animasyonların tasarımı bitti ve sahneye eklendi. Hedeflediğimiz sonuca yaklaşmış bir sprint süreci geçirildi. Olabildiğince whatsapp ve discord üzerinden iletişim kuruldu. Katılımcılar: Elif Afra Beşparmak, Aleyna Balçın, Halim Furkan Sargın.
+ - **Sprint Retrospective:** Son sprint olması sebebiyle bir önceki sprintlerden kalanlar ve belirlenen hedeflerin yerine getirildi. Verimli bir sprint oldu. Oyun tanıtım videosu için görev dağılımı yapıldı. Ürün teslim edilecek duruma geldi.
