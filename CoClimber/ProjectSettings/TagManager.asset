@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - mainHero
+  - Rock
+  - Win
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Mountain
+  - Water
+  - UI
+  - Trees
+  - Clouds
+  - 
+  - 
+  - Hero
+  - Rock
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Mountain
+    uniqueID: 3976539589
+    locked: 0
+  - name: Tree
+    uniqueID: 4284659469
+    locked: 0
+  - name: Cloud
+    uniqueID: 1831857159
+    locked: 0
+  - name: Enviroment
+    uniqueID: 328071511
+    locked: 0
+  - name: Boost
+    uniqueID: 3840815051
+    locked: 0
+  - name: Rock
+    uniqueID: 3063130441
+    locked: 0
+  - name: mainHero
+    uniqueID: 1587398517
+    locked: 0
+  - name: Health
+    uniqueID: 2027552281
+    locked: 0

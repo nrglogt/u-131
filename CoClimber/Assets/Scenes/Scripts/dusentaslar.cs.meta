@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: eadf87663a44f4100a9dc4016c1907a1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tas1: {fileID: -727080800, guid: a6e0c094595ef4d8b926d4de855a1260, type: 3}
+  - tas2: {fileID: 2143238490, guid: a6e0c094595ef4d8b926d4de855a1260, type: 3}
+  - tas3: {fileID: 193259152, guid: a6e0c094595ef4d8b926d4de855a1260, type: 3}
+  - tas4: {fileID: -352855813, guid: a6e0c094595ef4d8b926d4de855a1260, type: 3}
+  - tas5: {fileID: -1713901731, guid: a6e0c094595ef4d8b926d4de855a1260, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

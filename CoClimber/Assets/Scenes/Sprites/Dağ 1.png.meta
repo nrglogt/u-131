@@ -1,0 +1,491 @@
+fileFormatVersion: 2
+guid: 04c42e0fb665445358b84069b0b5c0c3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Dag\u0306 1_1"
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 2756
+        width: 251
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135dcd1fe6d264a898c3543d940c0550
+      internalID: 533573423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Dag\u0306 1_3"
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 2775
+        width: 192
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f384708fc6aa462c87feed2c44f3d6c
+      internalID: -1446562241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Dag\u0306 1_4"
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 2793
+        width: 142
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea07e3a98433e47d6bed11053679fa7b
+      internalID: -544434541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Dag\u0306 1_10"
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 2480
+        width: 179
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea99436325d4e4045b1f1dc38e2ec18a
+      internalID: -957565595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Dag\u0306 1_12"
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 2535
+        width: 232
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31273ed7fd74d401b868505f875d585a
+      internalID: -1353389089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Dag\u0306 1_13"
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 2534
+        width: 261
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f4d096cb9914610aaefe5eace55683
+      internalID: 582453750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Dag\u0306 1_16"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1661
+        width: 730
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4077a77ca6cdb4f43855495b4affe80d
+      internalID: 829501861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Dag\u0306 1_17"
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1738
+        width: 672
+        height: 574
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aee88e93241a44a0b71d2025326ebda
+      internalID: -1402331994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Dag\u0306 1_27"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 888
+        width: 605
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fa34d67928b4a1ea1e3174a441c5ae
+      internalID: 833796993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Dag\u0306 1_29"
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 880
+        width: 642
+        height: 596
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1412d9e84ef5245beb90407427d464d8
+      internalID: -830045219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Dag\u0306 1_36"
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 11
+        width: 508
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60adabfcb61dd4cb7992eeebe6612f49
+      internalID: -298667760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Dag\u0306 1_38"
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 8
+        width: 582
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0b13721baa54be9b199a644bd3801e
+      internalID: -64143349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Dag\u0306 1_41"
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 293
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ecea1fb637946a885da2d9b7291b05
+      internalID: 1706171958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Dag\u0306 1_42"
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 267
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091308d89cae14888bde992d9570476e
+      internalID: -789180160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "Dag\u0306 1_0": -1581247149
+      "Dag\u0306 1_1": 533573423
+      "Dag\u0306 1_10": -957565595
+      "Dag\u0306 1_11": -1806124846
+      "Dag\u0306 1_12": -1353389089
+      "Dag\u0306 1_13": 582453750
+      "Dag\u0306 1_14": -1655319896
+      "Dag\u0306 1_15": -1472313113
+      "Dag\u0306 1_16": 829501861
+      "Dag\u0306 1_17": -1402331994
+      "Dag\u0306 1_18": 1971944791
+      "Dag\u0306 1_19": -1872023598
+      "Dag\u0306 1_2": -1448422919
+      "Dag\u0306 1_20": -1183815042
+      "Dag\u0306 1_21": 1925486747
+      "Dag\u0306 1_22": 623599902
+      "Dag\u0306 1_23": -916372988
+      "Dag\u0306 1_24": -1274753750
+      "Dag\u0306 1_25": 536662850
+      "Dag\u0306 1_26": 842908161
+      "Dag\u0306 1_27": 833796993
+      "Dag\u0306 1_28": -1841060657
+      "Dag\u0306 1_29": -830045219
+      "Dag\u0306 1_3": -1446562241
+      "Dag\u0306 1_30": -320619044
+      "Dag\u0306 1_31": -991399352
+      "Dag\u0306 1_32": -664012297
+      "Dag\u0306 1_33": 375217307
+      "Dag\u0306 1_34": -1543491064
+      "Dag\u0306 1_35": 1174396662
+      "Dag\u0306 1_36": -298667760
+      "Dag\u0306 1_37": -2019932890
+      "Dag\u0306 1_38": -64143349
+      "Dag\u0306 1_39": 1011235696
+      "Dag\u0306 1_4": -544434541
+      "Dag\u0306 1_40": -168356955
+      "Dag\u0306 1_41": 1706171958
+      "Dag\u0306 1_42": -789180160
+      "Dag\u0306 1_43": -394648509
+      "Dag\u0306 1_5": 2039560273
+      "Dag\u0306 1_6": -204448055
+      "Dag\u0306 1_7": -1732566123
+      "Dag\u0306 1_8": -2029879907
+      "Dag\u0306 1_9": -1047489739
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
